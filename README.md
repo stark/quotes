@@ -8,6 +8,7 @@ way) out of context.
 
 ## QUOTE DATABASES
 * #nixers - From IRC channel #nixers @ irc.iotek.org.
+* Emacs - Comments on the Emacs text editor/Lisp environment.
 
 ## SEE ALSO
 [fortune(6)][1], [iotek/dbag][2]
